@@ -1,5 +1,5 @@
 // fill store names in store_name array
-var store_name =  ["flipkart", "ebay", "amazon", "1mg","abof", "dailyobjects", "infibeam", "jabong", "voonik", "lenskart", "myntra", "paytm", "homeshop18", "shopclues", "tatacliq", "ajio", "aplava", "biba", "adidas", "coolwinks", "clovia", "chumbak", "dominos", "droom", "fabellay", "fabfurnish", "koovs", "netmeds", "zivame", "makemytrip"];
+var store_name =  ["flipkart", "ebay", "amazon", "1mg","abof", "dailyobjects", "infibeam", "jabong", "voonik", "lenskart", "myntra", "paytm", "homeshop18", "shopclues", "tatacliq", "ajio", "aplava", "biba", "adidas", "coolwinks", "clovia", "chumbak", "dominos", "droom", "fabellay", "fabfurnish", "koovs", "netmeds", "zivame", "makemytrip", "nnnow"];
 
 $(document).ready(function(){
 
