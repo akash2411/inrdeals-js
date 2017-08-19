@@ -3,7 +3,7 @@
 var store_name = [];
 $(document).ready(function(){
 	console.log('Inrdeals Username : ' +subID);
-	  $.get("data.json", function(data, status){
+	  $.get("https://cdn.jsdelivr.net/gh/akash2411/inrdeals-js@1.0.1.1/data.json", function(data, status){
         var store_name = data.keywords;
         console.log(store_name);
         checkURL(subID, store_name);
