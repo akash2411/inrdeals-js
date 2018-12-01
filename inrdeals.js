@@ -14,7 +14,7 @@ $(document).ready(function(){
 function checkURL(subID, store_name)
 {
 	$('body').find('a').each(function(){
-		var param = "https://inrdeals.com/track?id="+subID+"&url=";
+		var param = "http://inr.deals/track?id="+subID+"&url=";
 		var $this = $(this);
 		var _href = $this.attr('href');
 		var host = new URL(_href);
